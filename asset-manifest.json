@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/enea-kartka-01/static/css/main.dbb6607f.chunk.css",
-    "main.js": "/enea-kartka-01/static/js/main.5071f269.chunk.js",
-    "main.js.map": "/enea-kartka-01/static/js/main.5071f269.chunk.js.map",
+    "main.css": "/enea-kartka-01/static/css/main.b56a7784.chunk.css",
+    "main.js": "/enea-kartka-01/static/js/main.38a2c078.chunk.js",
+    "main.js.map": "/enea-kartka-01/static/js/main.38a2c078.chunk.js.map",
     "runtime-main.js": "/enea-kartka-01/static/js/runtime-main.998e51ce.js",
     "runtime-main.js.map": "/enea-kartka-01/static/js/runtime-main.998e51ce.js.map",
     "static/js/2.16584162.chunk.js": "/enea-kartka-01/static/js/2.16584162.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.366dd9d5.chunk.js": "/enea-kartka-01/static/js/3.366dd9d5.chunk.js",
     "static/js/3.366dd9d5.chunk.js.map": "/enea-kartka-01/static/js/3.366dd9d5.chunk.js.map",
     "index.html": "/enea-kartka-01/index.html",
-    "static/css/main.dbb6607f.chunk.css.map": "/enea-kartka-01/static/css/main.dbb6607f.chunk.css.map",
+    "static/css/main.b56a7784.chunk.css.map": "/enea-kartka-01/static/css/main.b56a7784.chunk.css.map",
     "static/js/2.16584162.chunk.js.LICENSE.txt": "/enea-kartka-01/static/js/2.16584162.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.998e51ce.js",
     "static/js/2.16584162.chunk.js",
-    "static/css/main.dbb6607f.chunk.css",
-    "static/js/main.5071f269.chunk.js"
+    "static/css/main.b56a7784.chunk.css",
+    "static/js/main.38a2c078.chunk.js"
   ]
 }
